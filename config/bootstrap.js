@@ -58,7 +58,7 @@
 // } 
 
 module.exports.bootstrap = function (cb) {
-  sails.log.debug("Initialize dps server")
+  sails.log.debug("Initialize DJ Charts Server")
   sails.log.debug("Use DB " + JSON.stringify(sails.config.connections.mongodbServer))
   // sails.services.passport.loadStrategies();
 

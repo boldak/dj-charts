@@ -1,5 +1,5 @@
 {
-  "name": "dj-storage",
+  "name": "dj-charts",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boldak/dj-storage.git"
+    "url": "git+https://github.com/boldak/dj-charts.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/boldak/dj-dps-server/issues"
+    "url": "https://github.com/boldak/dj-charts/issues"
   },
-  "homepage": "https://github.com/boldak/dj-storage#readme",
+  "homepage": "https://github.com/boldak/dj-charts#readme",
   "dependencies": {
     "bcryptjs": "2.1.0",
     "bluebird": "^3.5.0",

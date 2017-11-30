@@ -5,7 +5,7 @@ var Script = require("dj-dps-interpreter");
 
 var logger = require("dj-utils").log.global;
 
-logger.debug("Start DPS Service")
+logger.debug("Start DJ Charts Service")
 
 module.exports = {
 
