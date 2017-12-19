@@ -1,3 +1,0 @@
-get(var:'_args.data', as:'html')
-wrap('h1')
-return()
